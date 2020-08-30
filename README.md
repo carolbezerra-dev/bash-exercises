@@ -125,7 +125,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Bloco 16: IntroduÃ§Ã£o ao Redux
 
-- [ ] 16-1: _IntroduÃ§Ã£o ao Redux_
+- [ ] 16-1: _Introdução ao Redux_
 - [ ] 16-2: _React com Redux - Parte 1_
 - [ ] 16-3: _React com Redux - Prática_
 - [ ] 16-4: _React com Redux - Parte 2_
