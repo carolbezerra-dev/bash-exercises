@@ -12,7 +12,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda I
 The program has more than 1,500 hours of classroom and online classes, covers Introduction to software development, Front-end, Back-end, Computer science, Software engineering, Agile methodologies and Soft skills.
 
 ## Introdução - Desenvolvimento Web :white_check_mark:
-## Introduction to software development
 
 ##### Bloco 1: Introdução - Unix & Shell
 
@@ -112,7 +111,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 - [ ] 13-3: _React Router_
 - [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
 
-##### Bloco 14: Metodologias Ãgeis
+##### Bloco 14: Metodologias Ágeis
 
 - [ ] 14-1: _Metodologias Ágeis_
 - [ ] 14-2: _[Projeto - Frontend Online Store]()_
