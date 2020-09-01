@@ -31,14 +31,13 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - HTML & CSS - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/3.HTML-CSS)_
-           _[Projeto - HTML & CSS - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
+- [x] 3-5: _[Projeto - HTML & CSS - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/3.HTML-CSS)_ and  _[Projeto - HTML & CSS - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
 
 ##### Bloco 4: Introdução - JavaScript
 
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
-- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [ ] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
