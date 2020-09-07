@@ -38,8 +38,8 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-4: _JavaScript - Objetos e funções_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/4.JavaScript)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
