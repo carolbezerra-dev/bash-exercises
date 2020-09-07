@@ -253,10 +253,10 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Bloco 36: Python
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
+- [ ] 36-1: _Aprendendo Python_
+- [ ] 36-2: _Testes e Exceções_
+- [ ] 36-3: _Entrada e Saída de dados_
 - [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
+- [ ] 36-5: _[Projeto - Tech news]()_
 
 # [...]
