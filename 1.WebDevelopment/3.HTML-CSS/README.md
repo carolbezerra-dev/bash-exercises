@@ -12,3 +12,5 @@ It is so nice to see my first steps.
 At the moment I created this repository, I was studying Introduction to HTML and CSS.
 I am sure that in the future, when I look back to this moment, I will feel proud of my first small job :)
 Do not forget to check it here https://carolbezerra-dev.github.io/
+
+3. exercises of positioning
