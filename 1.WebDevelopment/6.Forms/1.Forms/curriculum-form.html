@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Currículo</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Obrigada pelo seu interesse em nossa empresa!</h1>
+    <h2>Por favor, preencha os dados abaixo e entraremos em contato</h2>
+    <form action="post">
+      <fieldset>
+        <legend>Dados Pessoais</legend>
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name" maxlength="40" required="required"><br>
+        <label for="email">E-mail:</label>
+        <input type="email" name="email" id="email" maxlength="50" required="required" placeholder="exemplo@exemplo.com"><br>
+        <label for="cpf">CPF:</label>
+        <input type="number" name="cpf" id="cpf" maxlength="11" required="required" placeholder="000.000.000-00"><br>
+        <label for="endereco">Endereço:</label>
+        <input type="text" name="endereco" id="endereco" maxlength="200" required="required"><br>
+        <label for="cidade">Cidade:</label>
+        <input type="text" name="cidade" id="cidade" maxlength="28" required="required">
+        <label for="estados">Estado:</label>
+        <select name="estado" id="estados" required="required"></select>
+        <label id="moradia">Moradia:</label>
+        <input type="radio" name="moradia" id="casa">
+        <label for="casa" class="morada">Casa</label>
+        <input type="radio" name="moradia" id="apartamento">
+        <label for="apartamento" class="morada">Apartamento</label>
+      </fieldset>
+      <fieldset>
+        <legend>Dados do seu último emprego</legend>
+        <label for="resumo">Resumo do seu currículo:</label><br>
+        <textarea name="resumo" id="resumo" maxlength="1000"></textarea><br>
+        <label for="cargo">Cargo:</label>
+        <input type="text" name="cargo" id="cargo" maxlength="40" required="required">
+        <label for="descricao">Descrição do cargo:</label>
+        <input type="text" name="descricao" id="descricao" maxlength="500" required="required">
+        <label>Data de início:</label>
+        <input type="text" name="dd" id="dd" class="date ddmm" maxlength="2" required="required">
+        /
+        <input type="text" name="mm" id="mm" class="date ddmm" maxlength="2" required="required">
+        /
+        <input type="text" name="aaaa" id="aaaa" class="date aaaa" maxlength="4" required="required">
+      </fieldset>
+      <button type="submit">Enviar</button>
+    </form>
+    <script src="script.js"></script>
+  </body>
+</html>
