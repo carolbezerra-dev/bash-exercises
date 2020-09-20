@@ -1,7 +1,8 @@
 Hello!
 
 #### Class 1 - Page Structure
-In this repository I put the first challenges learning HTML. Learnings about initial tags: h1, p, a, img, strong, em, etc... Definitely, just a beginning
+In this repository I put the first challenges learning HTML. Learnings about initial tags: h1, p, a, img, strong, em, etc...<br>
+Definitely, just a beginning
 
 #### Class 2 - CSS - First Steps
 carolbezerra-dev.github.io
@@ -16,6 +17,6 @@ This class I learned the importance to use the semantic tags and it was a prepar
 
 #### Class 5 - HTML & CSS Project
 Project time!
-You will find all the details (in portuguese) of the project called Lessons Learned, it closed the block 3
+You will find all the details (in portuguese) of the project called Lessons Learned, it closed the block 3<br>
 I reached 100% grade in required and bonus topics! :)
 
