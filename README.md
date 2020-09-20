@@ -11,7 +11,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda I
 
 The program has more than 1,500 hours of classroom and online classes, covers Introduction to software development, Front-end, Back-end, Computer science, Software engineering, Agile methodologies and Soft skills.
 
-## Introdução - Desenvolvimento Web :white_check_mark:
+## Fundamentos - Desenvolvimento Web :white_check_mark:
 
 ##### Bloco 1: Introdução - Unix & Shell
 
@@ -53,8 +53,6 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
-
 ##### Bloco 6: Introdução - Front-end
 
 - [x] 6-1: _HTML & CSS - Forms_
@@ -91,6 +89,9 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 - [ ] 10-2: _Jest - Testes Assíncronos_
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+
+
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: IntroduÃ§Ã£o - React
 
@@ -145,6 +146,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 ##### Bloco 19: Projeto Final de Front-end
 
 - [ ] 19-1: _[Projeto - App de Receitas]()_
+
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -241,6 +243,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 ##### Bloco 34: Projeto
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
+
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
