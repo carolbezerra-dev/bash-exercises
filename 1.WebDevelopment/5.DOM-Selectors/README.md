@@ -24,13 +24,7 @@ I reached 100% grade in required and bonus topics! :)
 
 #### Class 6 - To Do List Project and bonus
 I reached 100% grade in required and bonus topics! :)<br>
-<<<<<<< HEAD
-Bonus 1: Guess Color Project<br>
+##### Bonus 1: Guess Color Project<br>
 I reached 100% grade in required and bonus topics! :)<br>
-Bonus 2: Mistery Letter Project<br>
-=======
-Bonus 1: Guess Color Project<br>
-I reached 100% grade in required and bonus topics! :)<br>
-Bonus 2: Mistery Letter Project<br>
->>>>>>> ae17c0156765bd6170d2244fcdd65353ff3c727b
+##### Bonus 2: Mistery Letter Project<br>
 I reached 100% grade in required and bonus topics! :)
