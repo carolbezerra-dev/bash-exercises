@@ -17,5 +17,5 @@ This class I learned the importance to use the semantic tags and it was a prepar
 #### Class 5 - HTML & CSS Project
 Project time!
 You will find all the details (in portuguese) of the project called Lessons Learned, it closed the block 3
-I reached 100% of the required topics! :)
+I reached 100% grade in required and bonus topics! :)
 
