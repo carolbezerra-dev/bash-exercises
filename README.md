@@ -49,7 +49,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-5: _[Projeto - Meme Generator - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Meme-Generator)_ and _[Projeto - Meme Generator - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)_
 - [x] 5-6: _[Projeto - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Projeto - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
+- [x] 5-7: _[Projeto - Lista de tarefas - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/ToDo-List)_ and _[Projeto - Lista de tarefas - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
