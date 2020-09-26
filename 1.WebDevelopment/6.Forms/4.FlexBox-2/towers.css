@@ -1,0 +1,54 @@
+/* 10 - Move your towers into position by combining the container property justify-content with the item property order */
+.tower-group-1 {
+	display: flex;
+	justify-content: space-around;
+}
+
+.tower-1-2 {
+	order: 1;
+}
+
+.tower-group-2 {
+	display: flex;
+	justify-content: space-around;
+}
+.tower-2-1 {
+	order: 1;
+}
+
+/* 11 - Use justify-content and align-self to move your towers into position */
+.tower-group-1 {
+	display: flex;
+	justify-content: space-between;
+}
+.tower-1-1 {
+	align-self: flex-end;
+}
+
+.tower-1-3 {
+	align-self: flex-end;
+}
+
+/* 12 - Use the properties you've learned to move your towers into position: justify-content, align-items, flex-direction, order, align-self  */
+.tower-group-1 {
+	display: flex;
+	justify-content: space-between;
+}
+.tower-1-1 {
+	align-self: flex-start;
+}
+.tower-1-2 {
+	order: 4;
+	align-self: center;
+}
+.tower-1-3 {
+	align-self: center;
+}
+.tower-1-4 {
+	align-self: center;
+	order: 3;
+}
+.tower-1-5 {
+	align-self: flex-end;
+	order: 5;
+}

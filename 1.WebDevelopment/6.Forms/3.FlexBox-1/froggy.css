@@ -1,0 +1,86 @@
+/* reference https://flexboxfroggy.com/ */
+
+/* 1 - move the frog to the right */
+#pond {
+	display: flex;
+	justify-content: flex-end;
+}
+
+/* 2 - move the frog to the center */
+#pond {
+	display: flex;
+	justify-content: center;
+}
+
+/* 3 - This time, the lilypads have lots of space all around them */
+#pond {
+	display: flex;
+	justify-content: space-around;
+}
+
+/* 4 - This time, the lilypads have equal spacing between them */
+#pond {
+	display: flex;
+	justify-content: space-between;
+}
+
+/* 5 - the frogs get to the bottom of the pond */
+#pond {
+	display: flex;
+	align-items: flex-end;
+}
+
+/* 6 - Lead the frog to the center of the pond */
+#pond {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* 7 - this time for some lilypads with plenty of space around them */
+#pond {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+}
+
+/* 8 - The frogs need to get in the same order as their lilypads */
+#pond {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+/* 9 - Help the frogs find their column of lilypads */
+#pond {
+	display: flex;
+	flex-direction: column;
+}
+
+/* 10 - Help the frogs get to their own lilypads */
+#pond {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: flex-end;
+}
+
+/* 11 -  when the flex direction is a column, justify-content changes to the vertical and align-items to the horizontal */
+#pond {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+}
+
+/* 12 - Help the frogs find their lilypads using flex-direction and justify-content */
+#pond {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: space-between;
+}
+
+/* 13 - Help the frogs find their lilypads using flex-direction, justify-content, and align-items */
+#pond {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+	align-items: flex-end;
+}
