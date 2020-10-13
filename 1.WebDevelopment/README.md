@@ -57,7 +57,7 @@ This is the 1st module of content in Trybe's school. Below you see the step by s
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Unitary Tests in JavaScript_
-- [ ] 7-4: _[Project - JavaScript Unitary Tests]()_
+- [x] 7-4: _[Project - JavaScript Unitary Tests - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/7.ES6)_
 
 ##### Block 8: JavaScript ES6
 
