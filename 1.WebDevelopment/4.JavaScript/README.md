@@ -10,6 +10,6 @@ Exercises to practice the Programming Logic and learn more about algorithms
 - [x] 4-4: _JavaScript - Objects and functions_  
 Introduction to Objects, Functions and loop For-In  
 - [x] 4-5: _[Project - Playground Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/4.JavaScript)_  
-Project time!
+Project time!  
 Many topics to exercise and practice funcitions syntax and logic  
 I reached 100% grade in required and bonus topics! :)
