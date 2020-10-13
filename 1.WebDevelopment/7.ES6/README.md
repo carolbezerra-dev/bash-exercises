@@ -6,5 +6,5 @@ difference between var, let and const; how to use template literals and sintaxe 
 Object.keys, Object.values, Object.assign
 - [x] 7-3: _Unitary Tests in JavaScript_  
 assert.ok, assert.strictEqual, assert.deepStrictEqual, etc
-- [x] 7-4: _[Project - JavaScript Unitary Tests - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/7.ES6)_
+- [x] 7-4: _[Project - JavaScript Unitary Tests - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/7.ES6)_  
 I reached 100% grade in required topics! :)
