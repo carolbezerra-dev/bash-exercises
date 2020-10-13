@@ -11,5 +11,6 @@ Flex Axes (Main and Cross), container properties (flex-direction and flex-flow),
 align-self, order, flex-grow, pseudo-class  
 - [x] 6-5: _CSS Responsive - Mobile First_  
 media queries, why it is important to apply Mobile First  
-- [ ] 6-6: _[Project - Facebook LogIn Page]()_
+- [ ] 6-6: _[Project - Facebook LogIn Page]()_  
+Project time!  
 I reached 100% grade in required topics! :)
