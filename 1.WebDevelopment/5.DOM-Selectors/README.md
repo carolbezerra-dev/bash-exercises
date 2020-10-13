@@ -21,5 +21,5 @@ I reached 100% grade in required and bonus topics! :)
 I reached 100% grade in required and bonus topics! :)  
 - [x] 5-7: _[Project - Guess Color - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Color-Guess)_ and _[Project - Guess Color - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)_  
 I reached 100% grade in required and bonus topics! :)  
-- [x] 5-7: _[Project - Mistery Letter]()_  
+- [x] 5-7: _[Project - Mystery Letter]()_  
 I reached 100% grade in required and bonus topics! :)
