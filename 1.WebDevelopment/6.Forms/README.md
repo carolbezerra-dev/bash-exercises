@@ -12,3 +12,4 @@ align-self, order, flex-grow, pseudo-class
 - [x] 6-5: _CSS Responsive - Mobile First_  
 media queries, why it is important to apply Mobile First  
 - [ ] 6-6: _[Project - Facebook LogIn Page]()_
+I reached 100% grade in required topics! :)
