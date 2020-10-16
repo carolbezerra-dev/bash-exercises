@@ -50,7 +50,7 @@ This is the 1st module of content in Trybe's school. Below you see the step by s
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsive - Mobile First_
-- [ ] 6-6: _[Project - Facebook LogIn Page]()_
+- [x] 6-6: _[Project - Facebook LogIn Page - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/6.Forms)_ and _[Project - Facebook LogIn Page - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/6.Forms/)_
 
 ##### Block 7: JavaScript ES6 & Unitary Tests
 
