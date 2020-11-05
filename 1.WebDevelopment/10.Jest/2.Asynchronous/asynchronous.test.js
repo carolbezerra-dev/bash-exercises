@@ -37,7 +37,7 @@ describe('Questão 2 e 3', () => {
 describe('Questão 4', () => {
   it('gets a list of repositories names', () => {
     const url = 'https://api.github.com/users/tryber/repos';
-  
+    expect.assertations(2);
     return getRepos(url).then(result => {
       expect(result).notToBeNull('sd-01-week4-5-project-todo-list')
       expect(result).not.toContain('sd-01-week4-5-project-meme-generator')
@@ -78,7 +78,7 @@ describe('Testando promise - findAnimalByName', () => {
 
 // 6.2
 describe('Quando existe o animal com a idade', () => {
-  test('testando por idade', () => {
+  test('testando por idade', async () => {
     return getListAnimals(2).then(age => {
       expect(age).toEqual({ name: 'Soneca', age: 2, type: 'Dog' });
     });
@@ -86,7 +86,7 @@ describe('Quando existe o animal com a idade', () => {
 });
 
 describe('Quando existe o animal com a idade', () => {
-  test('tratando o erro', () => {
+  test('tratando o erro', async () => {
     return getListAnimals(3).catch(error => {
       expect(error).toEqual('Não possui essa idade de animal.');
     });
