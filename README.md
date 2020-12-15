@@ -39,7 +39,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Programming Logic and Algorithms_
 - [x] 4-4: _JavaScript - Objects and functions_
-- [x] 4-5: _[Project - Playground Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/4.JavaScript)_
+- [x] 4-5: _[Project - Playground Functions - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/4.JavaScript)_
 
 ##### Block 5: Introduction - JavaScript - Projects
 
@@ -75,7 +75,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [x] 8-5: _[Project - Zoo Functions CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/8.Higher-Order-Functions)_  
+- [x] 8-5: _[Project - Zoo Functions - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/8.Higher-Order-Functions)_  
 
 ##### Block 9: Asynchronicity & Callbacks
 
