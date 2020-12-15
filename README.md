@@ -31,7 +31,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 3-2: _HTML & CSS - First Steps in CSS_
 - [x] 3-3: _HTML & CSS - Selectors and positioning_
 - [x] 3-4: _Semantic HTML_
-- [x] 3-5: _[Project - HTML & CSS - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/3.HTML-CSS)_ and  _[Projeto - HTML & CSS - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
+- [x] 3-5: _[Project - HTML & CSS - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/3.HTML-CSS)_ and  _[Projeto - HTML & CSS - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
 
 ##### Block 4: Introduction - JavaScript
 
@@ -39,7 +39,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Programming Logic and Algorithms_
 - [x] 4-4: _JavaScript - Objects and functions_
-- [x] 4-5: _[Project - Playground Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/4.JavaScript)_
+- [x] 4-5: _[Project - Playground Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/4.JavaScript)_
 
 ##### Block 5: Introduction - JavaScript - Projects
 
@@ -47,11 +47,11 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 5-2: _JavaScript - Working with elements_
 - [x] 5-3: _JavaScript - Events_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Project - Meme Generator - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Meme-Generator)_ and _[Project - Meme Generator - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)_
-- [x] 5-6: _[Project - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Project - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
-- [x] 5-7: _[Project - To Do List - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/ToDo-List)_ and _[Project - To Do List - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)_
-- [x] 5-7: _[Project - Guess Color - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Color-Guess)_ and _[Project - Guess Color - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)_
-- [x] 5-7: _[Project - Mystery Letter - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter)_ and _[Project - Mystery Letter - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter/)_
+- [x] 5-5: _[Project - Meme Generator - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Meme-Generator)_ and _[Project - Meme Generator - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)_
+- [x] 5-6: _[Project - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Project - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
+- [x] 5-7: _[Project - To Do List - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/ToDo-List)_ and _[Project - To Do List - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)_
+- [x] 5-7: _[Project - Guess Color - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Color-Guess)_ and _[Project - Guess Color - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)_
+- [x] 5-7: _[Project - Mystery Letter - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter)_ and _[Project - Mystery Letter - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter/)_
 
 ##### Block 6: Introduction - Front-end
 
@@ -60,14 +60,14 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsive - Mobile First_
-- [x] 6-6: _[Project - Facebook LogIn Page - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/6.Forms)_ and _[Project - Facebook LogIn Page - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/6.Forms/)_
+- [x] 6-6: _[Project - Facebook LogIn Page - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/6.Forms)_ and _[Project - Facebook LogIn Page - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/6.Forms/)_
 
 ##### Block 7: JavaScript ES6 & Unitary Tests
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Unitary Tests in JavaScript_
-- [x] 7-4: _[Project - JavaScript Unitary Tests - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/7.ES6)_
+- [x] 7-4: _[Project - JavaScript Unitary Tests - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/7.ES6)_
 
 ##### Block 8: JavaScript ES6
 
@@ -75,7 +75,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [ ] 8-5: _[Project - Zoo Functions]()_
+- [x] 8-5: _[Project - Zoo Functions CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/8.Higher-Order-Functions)_  
 
 ##### Block 9: Asynchronicity & Callbacks
 
