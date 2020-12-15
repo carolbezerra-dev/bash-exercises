@@ -79,9 +79,9 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 
 ##### Block 9: Asynchronicity & Callbacks
 
-- [ ] 9-1: _JavaScript Asynchronous e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Project - Shopping Cart]()_
+- [x] 9-1: _JavaScript Asynchronous e Callbacks_
+- [x] 9-2: _JavaScript Promises_
+- [x] 9-3: _[Project - Shopping Cart - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/9.Promise)_ and _[Project - Shopping Cart - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/9.Promise/)_
 
 ##### Block 10: Jest
 
