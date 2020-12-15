@@ -7,9 +7,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda Introdução ao desenvolvimento de software, Front-end, Back-end, Ciência da computação, Engenharia de software, Metodologias ágeis e Habilidades comportamentais.
+O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda Fundamentos ao Desenvolvimento de Software, Front-end, Back-end, Ciência da Computação, Engenharia de Software, Metodologias Ágeis e Habilidades Comportamentais.
 
-The program has more than 1,500 hours of classroom and online classes, covers Introduction to software development, Front-end, Back-end, Computer science, Software engineering, Agile methodologies and Soft skills.
+The program has more than 1,500 hours of classroom and online classes, covers Fundamentals of Software Development, Front-end, Back-end, Computer Science, Software Engineering, Agile Methodologies and Soft Skills.
 
 ## Fundamentals - Web Development :white_check_mark:
 
@@ -51,7 +51,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 - [x] 5-6: _[Project - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Project - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
 - [x] 5-7: _[Project - To Do List - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/ToDo-List)_ and _[Project - To Do List - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)_
 - [x] 5-7: _[Project - Guess Color - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Color-Guess)_ and _[Project - Guess Color - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)_
-- [x] 5-7: _[Project - Mystery Letter - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter)_ and _[Project - Mystery Letter - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mistery-Letter/)_
+- [x] 5-7: _[Project - Mystery Letter - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter)_ and _[Project - Mystery Letter - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter/)_
 
 ##### Block 6: Introduction - Front-end
 
