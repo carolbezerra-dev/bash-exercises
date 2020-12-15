@@ -51,7 +51,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 5-6: _[Project - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Project - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
 - [x] 5-7: _[Project - To Do List - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/ToDo-List)_ and _[Project - To Do List - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)_
 - [x] 5-7: _[Project - Guess Color - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Color-Guess)_ and _[Project - Guess Color - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)_
-- [x] 5-7: _[Project - Mystery Letter - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter)_ and _[Project - Mystery Letter - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mistery-Letter/)_
+- [x] 5-7: _[Project - Mystery Letter - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter)_ and _[Project - Mystery Letter - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter/)_
 
 ##### Block 6: Introduction - Front-end
 
