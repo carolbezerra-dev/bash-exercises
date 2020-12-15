@@ -9,3 +9,4 @@ I learned how to use HOF reduce
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_  
 I learned about these new tools  
 - [ ] 8-5: _[Project - Zoo Functions]()_  
+I reached 100% grade in required topics! :)
