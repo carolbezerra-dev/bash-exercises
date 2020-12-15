@@ -8,5 +8,5 @@ I learned how to use HOF map and filter
 I learned how to use HOF reduce  
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_  
 I learned about these new tools  
-- [ ] 8-5: _[Project - Zoo Functions]()_  
+- [x] 8-5: _[Project - Zoo Functions CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/8.Higher-Order-Functions)_  
 I reached 100% grade in required topics! :)
