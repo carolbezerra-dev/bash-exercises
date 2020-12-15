@@ -88,7 +88,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 10-1: _First Steps Jest_
 - [x] 10-2: _Jest - Asynchronous Tests_
 - [x] 10-3: _Jest - Simulating behaviors_
-- [x] 10-4: _[Project - Asynchronous Jest e Mocking - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/9.Promise)_
+- [x] 10-4: _[Project - Asynchronous Jest e Mocking - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/10.Jest-Mocks-Project)_
 
 
 ## Front-end Development :hourglass_flowing_sand:
