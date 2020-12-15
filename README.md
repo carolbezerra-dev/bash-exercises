@@ -7,9 +7,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda Introdução ao desenvolvimento de software, Front-end, Back-end, Ciência da computação, Engenharia de software, Metodologias ágeis e Habilidades comportamentais.
+O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda Fundamentos ao Desenvolvimento de Software, Front-end, Back-end, Ciência da Computação, Engenharia de Software, Metodologias Ágeis e Habilidades Comportamentais.
 
-The program has more than 1,500 hours of classroom and online classes, covers Introduction to software development, Front-end, Back-end, Computer science, Software engineering, Agile methodologies and Soft skills.
+The program has more than 1,500 hours of classroom and online classes, covers Fundamentals of Software Development, Front-end, Back-end, Computer Science, Software Engineering, Agile Methodologies and Soft Skills.
 
 ## Fundamentals - Web Development :white_check_mark:
 
