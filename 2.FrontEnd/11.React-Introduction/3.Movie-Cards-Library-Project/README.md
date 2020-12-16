@@ -22,7 +22,7 @@ Each component represents a specific part of the website, as shown below:
 
 `MovieList` should receive a prop` movies`, which is an array of objects with information from a movie.
 
-#### 4 Render `MovieCard` components within` MovieList`
+#### 4 Render `MovieCard` components within `MovieList`
 
 `MovieList` must render a` MovieCard` component for each object contained in the array received in the `movies` prop.
 
@@ -30,7 +30,7 @@ Each component represents a specific part of the website, as shown below:
 
 #### 6 Create a component called `MovieCard`
 
-`MovieCard` should receive a` movie` prop. This prop will be an object, containing the properties, `title`,` subtitle`, `storyline`,` imagePath` and `rating`.
+`MovieCard` should receive a `movie` prop. This prop will be an object, containing the properties, `title`, `subtitle`, `storyline`, `imagePath` and `rating`.
 
 #### 7 Render the movie image
 
