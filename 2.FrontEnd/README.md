@@ -6,7 +6,7 @@ This is the 2st module of content in Trybe's school. Below you see the step by s
 
 - [x] 11-1: _'Hello, world!' no React!_
 - [x] 11-2: _React Components_
-- [x] 11-3: _[Project - Movie Cards Library]()_
+- [x] 11-3: _[Project - Movie Cards Library - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction)_ and _[Project - Movie Cards Library - PAGE](https://movie-cards-library-project.vercel.app/)_
 
 ##### Block 12: React
 
