@@ -4,5 +4,5 @@
 First experience in React  
 - [x] 11-2: _React Components_  
 I learned about Components and Props
-- [x] 11-3: _[Project - Movie Cards Library - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction)_  
+- [x] 11-3: _[Project - Movie Cards Library - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction)_ and _[Project - Movie Cards Library - PAGE](https://movie-cards-library-project.vercel.app/)_  
 I reached 100% grade in required topics! :)
