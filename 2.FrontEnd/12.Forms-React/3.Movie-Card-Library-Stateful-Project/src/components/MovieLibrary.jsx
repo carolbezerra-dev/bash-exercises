@@ -37,7 +37,7 @@ class MovieLibrary extends Component {
     // essa função existe para fazer os filtros pedidos no requisito
     const { movies, bookmarkedOnly, selectedGenre, searchText } = this.state;
     if (bookmarkedOnly) {
-      return movies.filter((book) => book.bookmarkedOnly === true);
+      return movies.filter((book) => book.bookmarked === true);
     }
     if (selectedGenre !== '') {
       return movies.filter((genre) => genre.genre === selectedGenre);

@@ -13,8 +13,8 @@ class SearchBar extends Component {
     } = this.props;
 
     return (
-      <form data-testid="search-bar-form">
-        <label data-testid="text-input-label" htmlFor="input-text">
+      <form data-testid="search-bar-form" className="search-bar-form">
+        <label data-testid="text-input-label" htmlFor="input-text" className="text-input-label">
           Inclui o texto:
           <input
             type="text"
@@ -22,6 +22,7 @@ class SearchBar extends Component {
             onChange={onSearchTextChange}
             data-testid="text-input"
             name="input-text"
+            className="text-input"
           />
         </label>
         <label data-testid="checkbox-input-label" htmlFor="input-checkbox">
