@@ -23,8 +23,8 @@ This is the 2st module of content in Trybe's school. Below you see the step by s
 
 ##### Block 14: Agile Methodologies
 
-- [ ] 14-1: _Agile Methodologies_
-- [ ] 14-2: _[Project - Frontend Online Store]()_
+- [x] 14-1: _Agile Methodologies_
+- [x] 14-2: _[Project - Frontend Online Store - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/14.Frontend-Online-store)_
 
 ##### Block 15: Tests in React
 
