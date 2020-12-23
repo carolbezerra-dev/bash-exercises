@@ -16,15 +16,15 @@ This is the 2st module of content in Trybe's school. Below you see the step by s
 
 ##### Block 13: React
 
-- [ ] 13-1: _Improving component reuse: props.children e PropTypes_
-- [ ] 13-2: _React component life cycle_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Project - Movie Cards Library CRUD]()_
+- [x] 13-1: _Improving component reuse: props.children e PropTypes_
+- [x] 13-2: _React component life cycle_
+- [x] 13-3: _React Router_
+- [x] 13-4: _[Project - Movie Cards Library CRUD - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/13.React-Router)_ and _[Project - Movie Cards Library CRUD - PAGE](https://movie-card-library-crud-project.vercel.app/)_
 
 ##### Block 14: Agile Methodologies
 
-- [ ] 14-1: _Agile Methodologies_
-- [ ] 14-2: _[Project - Frontend Online Store]()_
+- [x] 14-1: _Agile Methodologies_
+- [x] 14-2: _[Project - Frontend Online Store - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/14.Frontend-Online-store)_
 
 ##### Block 15: Tests in React
 
