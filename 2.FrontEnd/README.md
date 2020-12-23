@@ -28,9 +28,9 @@ This is the 2st module of content in Trybe's school. Below you see the step by s
 
 ##### Block 15: Tests in React
 
-- [ ] 15-1: _Testing React with React Testing Library - Part 1_
-- [ ] 15-2: _Testing React with React Testing Library - Part 2_
-- [ ] 15-3: _[Project - Tests in React]()_
+- [x] 15-1: _Testing React with React Testing Library - Part 1_
+- [x] 15-2: _Testing React with React Testing Library - Part 2_
+- [x] 15-3: _[Project - Tests in React - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/15.React-Testing-Library)_
 
 ##### Block 16: Introduction ao Redux
 
