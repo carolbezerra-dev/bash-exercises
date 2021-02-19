@@ -1,5 +1,5 @@
 # trybe-exercises
-Here I put the exercises learning in Trybe to become Full-Stack Developer course.  
+Here I put the exercises learning in Trybe to Full-Stack Developer course.  
 
 # Trybe
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Carol Bezerra (https://github.com/carolbezerra-dev) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket:
