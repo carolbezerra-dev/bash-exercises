@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Best jokes ever</title>
+    <script src="apiScript.js"></script>
+  </head>
+  <body>
+    <h1>Get ready for a great joke!</h1>
+    <h2 id="jokeContainer"></h2>
+
+    <script>
+      const API_URL = 'https://icanhazdadjoke.com/';
+
+      const myObject = {
+        method: 'GET',
+        headers: { Accept: 'application/json' },
+      };
+
+      const h2Here = document.querySelector('#jokeContainer');
+
+      fetch(API_URL, myObject) // é uma promisse
+      .then(response => response.json()) // converte pra json
+      // .then(data => console.log(data)); // imprime o conteúdo de data
+      .then(data => h2Here.innerText = data.joke); // coloca o conteúdo da piada como texto do h2
+
+      // let arrayHere = [1, 2];
+
+      // const firstPromise = () => { // arrow function
+      //   const promiseHere = new Promise ((resolve, reject) => {
+      //     arrayHere.forEach(() => {
+      //       if(arrayHere.length < 10) {
+      //         arrayHere.push(Math.floor(Math.random() * 50) + 1);
+      //       }
+      //     }) 
+      //   }) 
+      // }
+
+      const fetchJoke = () => {
+        // Adicionar lógica aqui!
+      };
+
+      window.onload = () => fetchJoke();
+    </script>
+  </body>
+</html>

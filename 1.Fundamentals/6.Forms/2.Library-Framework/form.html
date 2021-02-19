@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Currículo</title>
+		<!--novidade da aula!-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
+		<link rel="stylesheet" href="bulma.min.css" />
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<h1 class="title">Obrigada pelo seu interesse em nossa empresa!</h1>
+		<h2 class="subtitle">Por favor, preencha os dados abaixo e entraremos em contato</h2>
+		<hr />
+		<form action="post">
+			<section class="section">
+				<fieldset>
+					<legend class="title is-5">Dados Pessoais</legend>
+
+					<div class="field">
+						<label for="name">Name:</label>
+						<div class="control">
+							<input
+								class="input is-rounded"
+								type="text"
+								name="name"
+								id="name"
+								maxlength="40"
+								required="required"
+							/>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="email">E-mail:</label>
+						<div class="control">
+							<input
+								class="input is-rounded"
+								type="email"
+								id="email"
+								maxlength="50"
+								required="required"
+								placeholder="exemplo@exemplo.com"
+							/>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="cpf">CPF:</label>
+						<div class="control"></div>
+						<input
+							class="input is-rounded"
+							type="number"
+							id="cpf"
+							maxlength="11"
+							required="required"
+							placeholder="000.000.000-00"
+						/>
+					</div>
+
+					<div class="field">
+						<label for="endereco">Endereço:</label>
+						<div class="control">
+							<input
+								class="input is-rounded"
+								type="text"
+								name="endereco"
+								id="endereco"
+								maxlength="200"
+								required="required"
+							/>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="cidade">Cidade:</label>
+						<div class="control">
+							<input
+								class="input is-rounded"
+								type="text"
+								name="cidade"
+								id="cidade"
+								maxlength="28"
+								required="required"
+							/>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="estados">Estado:</label>
+						<div class="control">
+							<div class="select is-rounded is-small">
+								<select name="estado" id="estados" required="required"></select>
+							</div>
+						</div>
+					</div>
+
+					<div class="field">
+						<label id="moradia">Moradia:</label>
+						<input type="radio" name="moradia" id="casa" />
+						<label for="casa" class="morada">Casa</label>
+						<input type="radio" name="moradia" id="apartamento" />
+						<label for="apartamento" class="morada">Apartamento</label>
+					</div>
+				</fieldset>
+				<hr />
+				<fieldset>
+					<legend class="title is-5">Dados do seu último emprego</legend>
+
+					<div class="field">
+						<label for="resumo">Resumo do seu currículo:</label><br />
+						<div class="control">
+							<textarea
+								class="textarea is-small"
+								name="resumo"
+								id="resumo"
+								maxlength="1000"
+							></textarea
+							><br />
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="cargo">Cargo:</label>
+						<div class="control">
+							<input
+								class="input is-rounded"
+								type="text"
+								name="cargo"
+								id="cargo"
+								maxlength="40"
+								required="required"
+							/>
+						</div>
+					</div>
+
+					<div class="field">
+						<label for="descricao">Descrição do cargo:</label>
+						<div class="control">
+							<input
+								class="input is-rounded"
+								type="text"
+								name="descricao"
+								id="descricao"
+								maxlength="500"
+								required="required"
+							/>
+						</div>
+					</div>
+
+					<div class="field">
+						<label>Data de início:</label>
+						<div class="control">
+							<input class="input is-rounded" type="text" id="datepicker" />
+						</div>
+					</div>
+				</fieldset>
+				<div class="control">
+					<button class="button is-fullwidth is-info is-outlined" type="submit">
+						Enviar e boa sorte!
+					</button>
+				</div>
+			</section>
+		</form>
+    <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
+		<script src="script.js"></script>
+	</body>
+</html>

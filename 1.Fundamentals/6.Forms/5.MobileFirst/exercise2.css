@@ -1,0 +1,48 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 2%;
+}
+
+header p {
+  text-align: center;
+}
+
+@media screen and (min-width: 650px) {
+  body {
+    background-color: pink;
+    font-size: 110%;
+  }
+
+  header p {
+    font-size: 150%;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  body {
+    background-color: violet;
+    font-size: 120%;
+  }
+
+  header p {
+    font-size: 180%;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  body {
+    background-color: aquamarine;
+    font-size: 130%;
+  }
+
+  header p {
+    font-size: 230%;
+  }
+}

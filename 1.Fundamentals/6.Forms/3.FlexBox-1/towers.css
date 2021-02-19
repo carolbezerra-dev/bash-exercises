@@ -1,0 +1,97 @@
+/* 1 - Use the justify-content ▾ property to move these two towers into position */
+.tower-group-1 {
+	display: flex;
+	justify-content: center;
+}
+
+/* 2 - Use justify-content ▾ to move your towers into position */
+.tower-group-1 {
+	display: flex;
+	justify-content: flex-end;
+}
+.tower-group-2 {
+	display: flex;
+	justify-content: center;
+}
+.tower-group-3 {
+	display: flex;
+	justify-content: flex-end;
+}
+
+/* 3 - Use justify-content ▾ to move your towers into position */
+.tower-group-1 {
+	display: flex;
+	justify-content: center;
+}
+.tower-group-2 {
+	display: flex;
+	justify-content: space-between;
+}
+
+/* 4 - Use align-items ▾ to move your towers into effective positions */
+.tower-group-1 {
+	display: flex;
+	align-items: flex-end;
+}
+.tower-group-2 {
+	display: flex;
+	align-items: flex-end;
+}
+
+/* 5 - Use justify-content ▾ and align-items ▾ to move your towers into position */
+.tower-group-1 {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+}
+.tower-group-2 {
+	display: flex;
+	justify-content: center;
+}
+.tower-group-3 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+/* 6 - Use justify-content ▾ and align-items ▾ to move your towers into position */
+.tower-group-1 {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+}
+
+/* 7 - Use flex-direction ▾ to move your towers into position */
+.tower-group-1 {
+	display: flex;
+	flex-direction: column;
+}
+.tower-group-2 {
+	display: flex;
+	flex-direction: column;
+}
+
+/* 8 - Use flex-direction ▾ and either justify-content ▾ or align-items ▾ to move your towers into position */
+tower-group-1 {
+	display: flex;
+	flex-direction: column;
+}
+.tower-group-2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+/* 9 - Use justify-content ▾, align-items ▾, and flex-direction ▾ to move your towers into position */
+.tower-group-1 {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row-reverse;
+}
+.tower-group-2 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: row-reverse;
+}

@@ -1,0 +1,51 @@
+body {
+  font-size: 20pt;
+  margin: 2%;
+}
+h1 {
+	font-size: 15pt;
+}
+
+img {
+  max-width: 100%;
+  margin-top: 5%;
+  margin-bottom: 2.5%;
+}
+
+figure {
+	margin: 0;
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    background-color: purple;
+    font-family: monospace;
+    margin: 5%;
+  }
+
+  .cat1e2 {
+    display: flex;
+  }
+
+  .cat3e4 {
+    display: flex;
+  }
+
+  .two {
+    margin-left: 2%;
+  }
+
+  .four {
+    margin-left: 2%;
+  }
+
+}
+
+
+@media screen and (min-width: 1300px) {
+  body {
+    background-color: grey;
+    font-size: 200%;
+    max-width: 1400px;
+  }
+}
