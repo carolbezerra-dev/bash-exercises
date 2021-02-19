@@ -1,6 +1,5 @@
 # trybe-exercises
-Here I put the exercises learning in Trybe  
-Trybe is a school for people who want to build a successful career in technology and who are fully committed to their students
+Here I put the exercises learning in Trybe to become Full-Stack Developer course.  
 
 # Trybe
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Carol Bezerra (https://github.com/carolbezerra-dev) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket:
