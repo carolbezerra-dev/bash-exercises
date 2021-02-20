@@ -1,0 +1,173 @@
+body {
+  background-image: url("./images/edgar-castrejon-s6BrlKXy7e0-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: 120%;
+}
+
+.div-login {
+  background-color: white;
+  border-radius: 10px;
+  height: 240px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.form-login {
+  align-items: center;
+  color: #0d6efd;
+  display: flex;
+  flex-flow: column wrap;
+  font-family: Arial , Helvetica , sans-serif;
+  justify-content: center;
+  margin-top: 30%;
+}
+
+.form-label {
+  margin-top: 5%;
+}
+
+.header-content {
+  background-color: #cecece;
+  display: flex;
+  font-family: Arial , Helvetica , sans-serif;
+  font-size: 20pt;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.profile-email {
+  color: #0d6efd;
+  display: flex;
+  font-family: Arial , Helvetica , sans-serif;
+  font-size: 18pt;
+  justify-content: center;
+}
+
+.profile-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.form-searchbar {
+  align-items: center;
+  color: #0d6efd;
+  display: flex;
+  flex-flow: column wrap;
+  font-family: Arial , Helvetica , sans-serif;
+}
+
+.border-card {
+  border: 1px solid #0d6efd;
+}
+
+.footer {
+  background-color: #cecece;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  position: fixed;
+  width: 100%;
+}
+
+.meals {
+  align-items: center;
+  background: #0fa36b;
+  color: #464646;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  height: 100vh;
+  justify-content: center;
+  width: 100%;
+}
+
+.iniciar-receita-fixo {
+  bottom: 0;
+  position: fixed;
+}
+
+.recommendations-card {
+  min-width: 500px;
+}
+
+.hidden-item {
+  display: none;
+}
+
+.ingredient-step {
+  list-style-type: none;
+}
+
+.card-favorite {
+  width: 200px;
+}
+
+.rocksGlass {
+  animation: shake 1s infinite ease;
+  max-height: 80vh;
+}
+
+button {
+  border: 1px solid #cecece !important;
+  border-radius: 0px !important;
+  padding: 7.7px !important;
+}
+
+.header-button {
+  border: 1px solid #6c757d !important;
+  width: 60px;
+}
+
+/*
+#iceLeft {
+  animation: clink .8s infinite ease;
+  opacity: 0.6;
+  transform-origin: 36px 66px;
+}
+
+#iceRight {
+  animation: clink .8s .2s infinite ease;
+  opacity: 0.6;
+  transform-origin: 60px 78px;
+}
+*/
+
+.meals > .logo {
+  animation: shake 1.5s infinite ease;
+  color: aliceblue;
+  font-family: Montserrat , sans-serif;
+  font-size: 3em;
+  font-weight: 900;
+}
+
+@keyframes shake {
+
+  0% {
+    transform: rotate(5deg);
+  }
+
+  50% {
+    transform: rotate(-5deg);
+  }
+
+  100% {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes clink {
+
+  0% {
+    transform: rotate(-10deg);
+  }
+
+  50% {
+    transform: rotate(20deg);
+  }
+
+  100% {
+    transform: rotate(-10deg);
+  }
+}
