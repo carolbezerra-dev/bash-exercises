@@ -90,7 +90,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 10-4: _Project - Asynchronous Jest e Mocking_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/10.Jest-Mocks-Project)
 
 
-## Front-end Development :hourglass_flowing_sand:
+## Front-end Development :white_check_mark:
 
 ##### Block 11: Introduction - React
 
