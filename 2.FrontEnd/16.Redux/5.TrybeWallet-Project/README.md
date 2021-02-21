@@ -4,13 +4,7 @@
 # Skills
 In this project, we check if you are able to:
 
-   * Create a Redux store in React applications
-
-   * Create reducers in Redux in React applications
-
-   * Create Redux actions in React applications
-
-   * Create Redux dispatchers in React applications
+   * Create a Redux store, reducers, actions and dispatchers in React applications
 
    * Connect Redux to React components
 
@@ -56,7 +50,7 @@ Through this application, it will be possible to perform the basic operations of
     ```
     expenses: [{
       "id": 0,
-      "value": "3",
+      "value": "3",  
       "description": "Hot Dog",
       "currency": "USD",
       "method": "Dinheiro",
