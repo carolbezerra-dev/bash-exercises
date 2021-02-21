@@ -96,7 +96,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 
 - [x] 11-1: _'Hello, world!' no React!_
 - [x] 11-2: _React Components_
-- [x] 11-3: _Project - Movie Cards Library_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction) and [PAGE](https://movie-cards-library-project.vercel.app/)
+- [x] 11-3: _Project - Movie Cards Library_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction)
 
 ##### Block 12: React
 
@@ -129,22 +129,22 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 16-3: _React with Redux - Practice_
 - [x] 16-4: _React with Redux - Part 2_
 - [x] 16-5: _Synchronous tests with React-Redux_
-- [x] 16-6: _Project - Table with data filters_ - [CODE]()
+- [x] 16-6: _Project - Trybe Wallet_ - CODE and PAGE
 
 ##### Block 17: Project React
 
-- [x] 17-1: _Project - Trivia Game_ - [CODE]()
+- [x] 17-1: _Project - Trivia Game_ - CODE
 
 ##### Block 18: React & Context API
 
 - [x] 18-1: _Context React API_
 - [x] 18-2: _React Hooks - useState e useContext_
 - [x] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [x] 18-4: _Project - StarWars Datatable com Context API e Hooks_ - [CODE]()
+- [x] 18-4: _Project - StarWars Datatable com Context API e Hooks_ - CODE
 
 ##### Block 19: Front-end Final Project
 
-- [x] 19-1: _Project - Recipes App_ - [CODE]()
+- [x] 19-1: _Project - Recipes App_ - CODE
 
 
 ## Back-end Development :hourglass_flowing_sand:
