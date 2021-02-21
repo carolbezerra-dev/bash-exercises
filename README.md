@@ -1,4 +1,4 @@
-## Front-end Development :hourglass_flowing_sand:
+## Front-end Development :white_check_mark:
 
 ##### Block 11: Introduction - React
 
