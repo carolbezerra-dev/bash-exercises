@@ -5,7 +5,7 @@
 - [x] 20-1: _Relational Database_
 - [x] 20-2: _Finding data in a database_
 - [x] 20-3: _Filtering data specifically_
-- [ ] 20-4: _Manipulating tables_
+- [x] 20-4: _Manipulating tables_
 - [ ] 20-5: _Project - All For One_ - [CODE]()
 
 ##### Block 21: SQL Functions, Joins e Subqueries
