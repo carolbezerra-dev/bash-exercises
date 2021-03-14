@@ -30,7 +30,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 3-2: _HTML & CSS - First Steps in CSS_
 - [x] 3-3: _HTML & CSS - Selectors and positioning_
 - [x] 3-4: _Semantic HTML_
-- [x] 3-5: _Project - HTML & CSS_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/3.HTML-CSS) and  [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)
+- [x] 3-5: _Project - HTML & CSS_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/3.HTML-CSS) and  [PAGE](https://carolbezerra-dev.github.io/trybe-projects-front-end/1.Fundamentals/3.HTML-CSS/)
 
 ##### Block 4: Introduction - JavaScript
 
@@ -38,7 +38,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Programming Logic and Algorithms_
 - [x] 4-4: _JavaScript - Objects and functions_
-- [x] 4-5: _Project - Playground Functions_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/4.JavaScript)
+- [x] 4-5: _Project - Playground Functions_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/4.JavaScript)
 
 ##### Block 5: Introduction - JavaScript - Projects
 
@@ -46,11 +46,11 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 5-2: _JavaScript - Working with elements_
 - [x] 5-3: _JavaScript - Events_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _Project - Meme Generator_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Meme-Generator) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)
-- [x] 5-6: _Project - Pixel Art_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Pixels-Art) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)
-- [x] 5-7: _Project - To Do List_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/ToDo-List) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)
-- [x] 5-7: _Project - Guess Color_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Color-Guess) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)
-- [x] 5-7: _Project - Mystery Letter_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter/)
+- [x] 5-5: _Project - Meme Generator_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/5.DOM-Selectors/Meme-Generator) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects-front-end/1.Fundamentals/5.DOM-Selectors/Meme-Generator)
+- [x] 5-6: _Project - Pixel Art_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/5.DOM-Selectors/Pixels-Art) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects-front-end/1.Fundamentals/5.DOM-Selectors/Pixels-Art)
+- [x] 5-7: _Project - To Do List_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/5.DOM-Selectors/ToDo-List) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects-front-end/1.Fundamentals/5.DOM-Selectors/ToDo-List)
+- [x] 5-7: _Project - Guess Color_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/5.DOM-Selectors/Color-Guess) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects-front-end/1.Fundamentals/5.DOM-Selectors/Color-Guess)
+- [x] 5-7: _Project - Mystery Letter_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/5.DOM-Selectors/Mystery-Letter) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects-front-end/1.Fundamentals/5.DOM-Selectors/Mystery-Letter)
 
 ##### Block 6: Introduction - Front-end
 
@@ -59,14 +59,14 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsive - Mobile First_
-- [x] 6-6: _Project - Facebook LogIn Page_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/6.Forms) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/6.Forms/)
+- [x] 6-6: _Project - Facebook LogIn Page_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/6.Forms) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects-front-end/1.Fundamentals/6.Forms/)
 
 ##### Block 7: JavaScript ES6 & Unitary Tests
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Unitary Tests in JavaScript_
-- [x] 7-4: _Project - JavaScript Unitary Tests_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/7.ES6)
+- [x] 7-4: _Project - JavaScript Unitary Tests_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/7.ES6)
 
 ##### Block 8: JavaScript ES6
 
@@ -74,20 +74,20 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [x] 8-5: _Project - Zoo Functions_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/8.Higher-Order-Functions)  
+- [x] 8-5: _Project - Zoo Functions_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/8.Higher-Order-Functions)  
 
 ##### Block 9: Asynchronicity & Callbacks
 
 - [x] 9-1: _JavaScript Asynchronous e Callbacks_
 - [x] 9-2: _JavaScript Promises_
-- [x] 9-3: _Project - Shopping Cart_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/9.Promise) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/9.Promise/)
+- [x] 9-3: _Project - Shopping Cart_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/9.Promise) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects-front-end/1.Fundamentals/9.Promise/)
 
 ##### Block 10: Jest
 
 - [x] 10-1: _First Steps Jest_
 - [x] 10-2: _Jest - Asynchronous Tests_
 - [x] 10-3: _Jest - Simulating behaviors_
-- [x] 10-4: _Project - Asynchronous Jest e Mocking_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/10.Jest-Mocks-Project)
+- [x] 10-4: _Project - Asynchronous Jest e Mocking_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/1.Fundamentals/10.Jest-Mocks-Project)
 
 
 ## Front-end Development :white_check_mark:
@@ -96,31 +96,31 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 
 - [x] 11-1: _'Hello, world!' no React!_
 - [x] 11-2: _React Components_
-- [x] 11-3: _Project - Movie Cards Library_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction)
+- [x] 11-3: _Project - Movie Cards Library_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/11.React-Introduction)
 
 ##### Block 12: React
 
 - [x] 12-1: _Components with status_
 - [x] 12-2: _Events and forms in React_
-- [x] 12-3: _Project - Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/12.Forms-React) and [PAGE](https://movie-card-library-stateful.vercel.app/)
+- [x] 12-3: _Project - Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/12.Forms-React) and PAGE
 
 ##### Block 13: React
 
 - [x] 13-1: _Improving component reuse: props.children e PropTypes_
 - [x] 13-2: _React component life cycle_
 - [x] 13-3: _React Router_
-- [x] 13-4: _Project - Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/13.React-Router) and [PAGE](https://movie-card-library-crud-project.vercel.app/)
+- [x] 13-4: _Project - Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/13.React-Router) and PAGE
 
 ##### Block 14: Agile Methodologies
 
 - [x] 14-1: _Agile Methodologies_
-- [x] 14-2: _Project - Frontend Online Store_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/14.Frontend-Online-store)
+- [x] 14-2: _Project - Frontend Online Store_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/14.Frontend-Online-store)
 
 ##### Block 15: Tests in React
 
 - [x] 15-1: _Testing React with React Testing Library - Part 1_
 - [x] 15-2: _Testing React with React Testing Library - Part 2_
-- [x] 15-3: _Project - Tests in React_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/15.React-Testing-Library)
+- [x] 15-3: _Project - Tests in React_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/15.React-Testing-Library)
 
 ##### Block 16: Introduction ao Redux
 
@@ -129,7 +129,7 @@ The program has more than 1,500 hours of classroom and online classes, covers Fu
 - [x] 16-3: _React with Redux - Practice_
 - [x] 16-4: _React with Redux - Part 2_
 - [x] 16-5: _Synchronous tests with React-Redux_
-- [x] 16-6: _Project - Trybe Wallet_ - CODE and PAGE
+- [x] 16-6: _Project - Trybe Wallet_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/16.Redux) and PAGE
 
 ##### Block 17: Project React
 
