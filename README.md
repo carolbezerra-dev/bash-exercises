@@ -37,7 +37,7 @@
 - [x] 16-3: _React with Redux - Practice_
 - [x] 16-4: _React with Redux - Part 2_
 - [x] 16-5: _Synchronous tests with React-Redux_
-- [x] 16-6: _Project - Trybe Wallet_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/16.Redux) and PAGE
+- [x] 16-6: _Project - Trybe Wallet_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/16.Redux) and [PAGE](https://trybewallet-kappa.vercel.app/)
 
 ##### Block 17: Project React
 
