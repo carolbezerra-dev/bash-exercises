@@ -1,0 +1,15 @@
+{
+  "name": "velocidade-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "velocidade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "velocidade": "node velocidade.js"
+  },
+  "author": "Carol Bezerra",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
