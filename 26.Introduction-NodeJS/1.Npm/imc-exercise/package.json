@@ -1,0 +1,15 @@
+{
+  "name": "my-scripts",
+  "version": "1.0.0",
+  "description": "exercise 1 day 26.1",
+  "main": "imc.js",
+  "scripts": {
+    "test": "npm run imc",
+    "start": "node imc.js"
+  },
+  "author": "Carol Bezerra",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
