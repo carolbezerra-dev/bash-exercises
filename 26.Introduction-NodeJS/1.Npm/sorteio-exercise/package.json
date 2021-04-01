@@ -1,0 +1,16 @@
+{
+  "name": "sorteio-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sorteio.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sorteio": "node sorteio.js"
+  },
+  "author": "Carol Bezerra",
+  "license": "ISC"
+}
