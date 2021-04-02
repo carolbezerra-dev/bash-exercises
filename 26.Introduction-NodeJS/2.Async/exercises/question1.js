@@ -12,7 +12,7 @@ function mathTo50(a, b, c) {
   return promise;
 }
 
-mathTo50(1, 10, 10)
+mathTo50(10, 10, 10)
   .then(result => console.log(`Resultado do resolve: ${result}`))
   .catch(err => console.log(`Resultado do reject: ${err.message}`));
 
