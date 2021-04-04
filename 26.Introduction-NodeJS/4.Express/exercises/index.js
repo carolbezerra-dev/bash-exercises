@@ -1,6 +1,7 @@
 const express = require("express");
 const fs = require("fs");
-const fileJson = fs.readFileSync("./simpsons.json");
+const fileJson = fs.readFileSync("./simpsons.json", "utf8");
+// precisa do utf8 pra lidar com json certinho
 
 const app = express();
 
@@ -11,7 +12,7 @@ app.get("/ping", (_req, res) => {
 }); // question 2
 
 app.get("/simpsons", (req, res) => {
-  res.send(JSON.stringify(fileJson)); // entregou alguma coisa que não é o arquivo
+  res.send(fileJson);
 });
 
 app.use(function (err, req, res, next) {
