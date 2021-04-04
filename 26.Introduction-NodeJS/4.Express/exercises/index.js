@@ -5,7 +5,7 @@ const fileJson = fs.readFileSync("./simpsons.json", "utf8");
 
 const app = express();
 
-app.use(express.json());
+// app.use(express.json()); // só é útil com POST ou PUT
 
 app.get("/ping", (_req, res) => {
   res.send({ message: "Pong!" });
