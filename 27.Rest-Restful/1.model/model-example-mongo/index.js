@@ -63,34 +63,34 @@ app.post('/books', async (req, res) => {
   return res.status(201).json({ message: 'Livro criado com sucesso!' });
 });
 
-app.put('/books/:id', async (req,res) => {
-  try {
-    const { title, author_id } = req.body;
+// app.put('/books/:id', async (req,res) => {
+//   try {
+//     const { title, author_id } = req.body;
 
-    const { id } = req.params;
+//     const { id } = req.params;
 
-    const result = await Book.update(id, title, author_id);
-    res.status(200).json(result);
-  } catch (error) {
-    console.error(error);
+//     const result = await Book.update(id, title, author_id);
+//     res.status(200).json(result);
+//   } catch (error) {
+//     console.error(error);
 
-    res.status(500).json({ message: "Erro ao tentar realizar operação" });
-  }
-});
+//     res.status(500).json({ message: "Erro ao tentar realizar operação" });
+//   }
+// });
 
-app.delete('/books/:id', async (req, res) => {
-  try {
-    const { id } = req.params;
+// app.delete('/books/:id', async (req, res) => {
+//   try {
+//     const { id } = req.params;
 
-    await Book.exclude(id);
+//     await Book.exclude(id);
 
-    res.status(204).end();
-  } catch (error) {
-    console.error(error);
+//     res.status(204).end();
+//   } catch (error) {
+//     console.error(error);
     
-    res.status(500).json({ message: "Erro ao tentar realizar operação" });
-  }
-});
+//     res.status(500).json({ message: "Erro ao tentar realizar operação" });
+//   }
+// });
 
 app.listen(PORT, () => {
     console.log(`Ouvindo a porta ${PORT}`);
