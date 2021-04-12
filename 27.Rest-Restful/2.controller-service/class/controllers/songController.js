@@ -33,8 +33,33 @@ const createSong = async (req, res) => {
   }
 }
 
+const updateSong  = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { name, album } = req.body;
+    const result = await Song.updateSong(id, name, album);
+    res.status(200).json(result);
+  } catch (error) {
+    console.log(error);
+		res.status(500).json({ message: err.message });
+  }
+}
+
+const deleteSong = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const result = await Song.deleteSong(id);
+    res.status(200).json(result);
+  } catch (error) {
+    console.log(error);
+		res.status(500).json({ message: err.message });
+  }
+}
+
 module.exports = {
   getAllSongs,
   getById,
-  createSong
+  createSong,
+  updateSong,
+  deleteSong
 };
