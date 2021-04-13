@@ -34,6 +34,16 @@ const updateSong = async (id, name, album) => {
 }
 // pelo que entendi, ao colocar o returnOriginal false, retorno o item já atualizado
 
+/* como o professor fez a parte de Update
+const update = async ({ id, name, album }) => {
+	if (!ObjectId.isValid(id)) return null;
+	const song = await connection().then((db) => db.collection("songs")
+		.updateOne({ _id: ObjectId(id) }, { $set: { name, album } }));
+	
+	return song;
+};
+*/
+
 const deleteSong = async (id) => {
   if (!ObjectId.isValid(id)) return null;
 
@@ -46,6 +56,16 @@ const deleteSong = async (id) => {
   return deleted;
 }
 // retorna o item que foi deletado
+
+/* como o professor fez a parte de Delete
+const exclude = async (id) => {
+	if (!ObjectId.isValid(id)) return null;
+	
+	return collection().then((db) => {
+		return db.collection("songs").deleteOne({ _id: Object(id) });
+		});
+};
+*/
 
 module.exports = {
   getAll,
