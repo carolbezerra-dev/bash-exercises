@@ -49,7 +49,7 @@ const deleteSong = async (req, res) => {
   try {
     const { id } = req.params;
     const result = await Song.deleteSong(id);
-    res.status(200).json(result);
+    res.status(204).json(result);
   } catch (error) {
     console.log(error);
 		res.status(500).json({ message: err.message });
