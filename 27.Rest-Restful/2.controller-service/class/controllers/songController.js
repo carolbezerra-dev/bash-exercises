@@ -48,8 +48,8 @@ const updateSong  = async (req, res) => {
 const deleteSong = async (req, res) => {
   try {
     const { id } = req.params;
-    const result = await Song.deleteSong(id);
-    res.status(200).json(result);
+    await Song.deleteSong(id);
+    res.status(204).end(); // não costuma ter retorno no delete
   } catch (error) {
     console.log(error);
 		res.status(500).json({ message: err.message });
