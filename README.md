@@ -41,7 +41,7 @@
 
 ##### Block 17: Project React
 
-- [x] 17-1: _Project - Trivia Game_ - CODE
+- [x] 17-1: _Project - Trivia Game_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/17.Trivia)
 
 ##### Block 18: React & Context API
 
